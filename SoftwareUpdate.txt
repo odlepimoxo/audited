@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+docs: update view-results-in-terminal.md (#66)
