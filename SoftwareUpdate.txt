@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
