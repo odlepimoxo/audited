@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Reverse IoU threshold for NMS docs descriptions (#9151)
