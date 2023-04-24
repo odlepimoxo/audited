@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
