@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add OBB save_txt feature (#7450)
