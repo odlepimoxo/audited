@@ -1,1 +1,1 @@
-fix predict with class filter
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
