@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
