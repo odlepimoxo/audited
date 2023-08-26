@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+ultralytics 8.1.33 fix HUB model checks (#9153)
