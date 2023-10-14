@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
