@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Compare plt.get_backend() in lowercase (#8409)
