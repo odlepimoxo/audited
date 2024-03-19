@@ -1,1 +1,1 @@
-fix val each epoch
+New test for labels and crops (#8861)
