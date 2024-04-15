@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Add Amazon Sagemaker Docs integrations page (#7293)
