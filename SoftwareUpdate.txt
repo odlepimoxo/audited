@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Improve Coral Edge TPU guide (#8160)
