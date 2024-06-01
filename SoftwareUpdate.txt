@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
